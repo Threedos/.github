@@ -3,7 +3,7 @@
   <img src="FB_IMG_1765489279685.jpg" alt="Threedos Banner" width="800">
 </p>
 
-# Threedos
+# ThreeDOS
 
 ### Student Activity | Skill Development | Market-Ready Training
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Threedos
+## 🚀 About ThreeDOS
 
 Threedos is a student-driven organization dedicated to transforming students into confident, skilled, and market-ready professionals.
 We operate like a real company with multiple specialized councils, hands-on projects, internal systems, and continuous skill development programs.
@@ -46,11 +46,11 @@ Threedos is structured into multi-disciplinary councils that simulate modern com
 
 ### **Backend Development**
 
-Skills: PHP, Laravel, Node.js, MySQL, APIs, Authentication, System Architecture
+Skills: PHP, Laravel, MySQL, APIs, Authentication, System Architecture
 
 ### **Frontend Development**
 
-Skills: HTML, CSS, JS, Angular, Responsive Design, UI/UX Principles
+Skills: HTML, CSS, JS, Responsive Design, UI/UX Principles
 
 ---
 
@@ -159,7 +159,7 @@ This gives every member experience **before** entering the real job market.
 
 ---
 
-# 📣 Join Threedos
+# 📣 Join ThreeDOS
 
 We welcome:
 
