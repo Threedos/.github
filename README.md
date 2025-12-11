@@ -174,11 +174,9 @@ If you want to learn, build, lead, and grow — Threedos is your place.
 
 # 🔗 Links
 
-Replace placeholders with your official links:
-
 * Website:
-* Facebook Page:
+* Facebook Page: <a href="https://www.facebook.com/share/17QPZqK2Qi/"> click here </a>
 * LinkedIn:
 * GitHub Organization:
-* Email:
+
 
